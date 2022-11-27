@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="2893-4f26-98fd-ddde" name="British Army on the Rhine" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="abf0-2693-a28c-4ef3" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="3cf5-a96c-4686-faf5" name="Milan" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="eac9-e454-85f2-a0e2" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="fbb9-30b0-9023-988d" typeName="Stationary firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="0c78-98c2-18c4-5003">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="898f-e8c7-c029-9471">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="bda9-93b3-d460-87c6" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="fbb9-30b0-9023-988d" typeName="Stationary firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="0c78-98c2-18c4-5003">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="898f-e8c7-c029-9471">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="ae88-f023-6c86-69d0" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="9bae-8144-337b-a4cc" typeName="Moving firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="2ed7-83f0-c817-cd43">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="d86b-92f4-dc1f-5cbf">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="315b-ca22-4549-203a" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="9bae-8144-337b-a4cc" typeName="Moving firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="2ed7-83f0-c817-cd43">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="d86b-92f4-dc1f-5cbf">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="58b6-670a-9023-74a8" name="Stats" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">N/A</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">N/A</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">3</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">3+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">11h</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="3f21-31a7-68af-8a81" name="ATGM" hidden="false" targetId="6955-f10f-bd13-3c00" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d19a-ce42-0ccb-c3ef" name="New CategoryLink" hidden="false" targetId="d96e-036b-c054-aa88" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="5.0"/>
+        <cost name="pts" typeId="Points" value="38.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4a1d-1ef8-e5b8-57d3" name="Lynx" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="99f6-5926-73a7-ddb8" name="Stats" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">N/A</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">N/A</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">N/A</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">N/A</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">3+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">12h</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="9f8f-0406-9ab8-5b67" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="b69c-4e8c-bc8e-ae98" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="9aa6-1fb3-7bb7-9e61" name="ATGM" hidden="false" targetId="6955-f10f-bd13-3c00" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d65a-bfde-39eb-927f" name="Atk Helo" hidden="false" targetId="5f7f-8659-f759-c3ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="11.0"/>
+        <cost name="pts" typeId="Points" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="29f1-56c8-b488-ceb2" name="Challenger 1" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="2f01-9fbb-4c18-51f9" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">19s</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">17s</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">11</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="967a-b185-ea44-c9df" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="804a-1fd8-f011-474b" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="43a4-3c03-6494-f2a2" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
+        <infoLink id="0701-a015-98b9-0b4e" name="Special Armour" hidden="false" targetId="c2d4-c410-d7b4-a207" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="fcb6-4f27-cf33-9562" name="MBT" hidden="false" targetId="6a24-57b5-7d2d-83d8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="11.0"/>
+        <cost name="pts" typeId="Points" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7118-59d1-d7ae-9180" name="Fox" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="4fd0-052f-f084-c665" name="Stats" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">4a</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="4ddb-a95a-ebcd-0867" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="d814-92e0-3e30-c465" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="bd05-f660-f904-de89" name="Rapid Fire Auto Cannon" hidden="false" targetId="616f-3477-f5a7-7a28" type="rule"/>
+        <infoLink id="bdfe-4930-716f-892b" name="AA" hidden="false" targetId="a50a-a48c-1d63-a6b8" type="rule"/>
+        <infoLink id="2854-8bbb-4a9f-9fec" name="Rapid Fire Auto Cannon" hidden="false" targetId="RFAC AA reaction" type="profile"/>
+        <infoLink id="3b79-199c-83c6-faeb" name="Recce" hidden="false" targetId="6a5e-a445-2c84-b1cf" type="rule"/>
+        <infoLink id="8c11-4871-89e2-c3c0" name="ATV" hidden="false" targetId="1110-4f75-5d98-1725" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="59f7-9e46-b9cd-689e" name="Light (ATV)" hidden="false" targetId="2be6-c3ed-d530-3eaa" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="2.0"/>
+        <cost name="pts" typeId="Points" value="18.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a098-ac76-d8ba-8759" name="FV432" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="1b80-0d7c-5fb8-680d" name="Stats" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">0</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="776d-7ecf-91e8-308b" name="APC" hidden="false" targetId="a9d2-98bd-c615-6fe8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="48a2-9fa5-1c56-249d" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="false"/>
+        <categoryLink id="827a-6860-c923-632c" name="APC" hidden="false" targetId="8db6-aa7e-056a-3335" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="7.0"/>
+        <cost name="pts" typeId="Points" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6cf4-3fdb-aac8-1c59" name="Chieftain Mk9" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="1f93-04b3-2090-00a9" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">17</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">14</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">10</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="55ee-2ed2-56e4-6d90" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a954-c910-c379-e03c" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="019e-31c7-3ebb-9a8d" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d999-0099-2ee8-702a" name="MBT" hidden="false" targetId="6a24-57b5-7d2d-83d8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="8.0"/>
+        <cost name="pts" typeId="Points" value="63.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c164-5e8b-0bfc-69bb" name="Chieftain Mk5" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="5d56-43f4-6ef2-b609" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">16</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">14</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">10</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="cc4a-3b29-a689-d3cf" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="c312-e0d6-45e1-c5c5" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="2642-ca37-a725-6fba" name="MBT" hidden="false" targetId="6a24-57b5-7d2d-83d8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="7.0"/>
+        <cost name="pts" typeId="Points" value="53.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a685-cc2f-3b42-b4ff" name="Centurion Mk11" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="362d-477b-78f7-a488" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">13</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">11</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">9</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="53b3-e882-0223-ec5a" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="fd86-aa58-f3b8-5dcc" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="3e80-2724-77bc-0d02" name="MBT" hidden="false" targetId="6a24-57b5-7d2d-83d8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="5.0"/>
+        <cost name="pts" typeId="Points" value="36.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f07e-1abe-f38c-2e10" name="Tracked Rapier" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="78c7-27d7-20cb-05b3" name="Stats" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">8</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">N/A</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="db63-a394-acce-6a9c" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="b1a4-a27c-f6fe-7801" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7812-ea3b-03c6-a268" name="SAM" hidden="false" targetId="cb7a-2192-3b0c-d3e6" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="672e-d60e-cf69-82cf" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="4.0"/>
+        <cost name="pts" typeId="Points" value="30.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b9a8-a217-38af-734a" name="FV438" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="b851-5af1-01ad-d870" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">4+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">11h</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="0857-1c53-48d4-b746" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="4597-005d-ceae-0480" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="a7ca-ff08-308a-05b3" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="3.0"/>
+        <cost name="pts" typeId="Points" value="26.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ee95-d002-1b30-6e9a" name="Striker" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="08b3-260f-ae96-efb7" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">4+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">11h</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="488b-9c88-26b9-7fd9" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a2cd-19ba-99c1-c034" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="2c96-3b8b-62a7-1b8e" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="3.0"/>
+        <cost name="pts" typeId="Points" value="26.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2aa4-d526-64c2-e567" name="Saladin" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="e482-ce0f-5270-40c1" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">7h</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">6+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="b4f4-dba4-246a-b640" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="7915-a481-11fb-f3d5" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="36ad-d092-8fe0-0cdb" name="ATV" hidden="false" targetId="1110-4f75-5d98-1725" type="rule"/>
+        <infoLink id="aab4-42d4-9df6-60e2" name="Recce" hidden="false" targetId="6a5e-a445-2c84-b1cf" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="5b98-14b9-8004-c58b" name="Light (ATV)" hidden="false" targetId="2be6-c3ed-d530-3eaa" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="3.0"/>
+        <cost name="pts" typeId="Points" value="22.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1fbe-6650-da07-04c5" name="Scorpion" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="dbd5-ab9e-c179-4ca1" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">11</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">9</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">7h</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="6324-1c9e-c3d0-6101" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="42d4-1bd2-baa2-4fa0" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="3445-6e61-d85f-ef8d" name="Recce" hidden="false" targetId="6a5e-a445-2c84-b1cf" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="505b-115b-89bb-8b02" name="New CategoryLink" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="3.0"/>
+        <cost name="pts" typeId="Points" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1551-ce3f-9840-8718" name="Scimitar" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="059f-482b-02ce-e0f6" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">11</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">9</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">4a</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="89dd-bcdc-881f-f038" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="515f-8e2c-bd72-0c1d" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="8ddf-e2af-775a-56f0" name="Recce" hidden="false" targetId="6a5e-a445-2c84-b1cf" type="rule"/>
+        <infoLink id="d2a5-ec0f-abfc-ba8e" name="Rapid Fire Auto Cannon" hidden="false" targetId="616f-3477-f5a7-7a28" type="rule"/>
+        <infoLink id="0821-353d-224b-1695" name="Rapid Fire Auto Cannon" hidden="false" targetId="RFAC AA reaction" type="profile"/>
+        <infoLink id="c995-48bc-2b9f-4a6d" name="AA" hidden="false" targetId="a50a-a48c-1d63-a6b8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="5eca-7253-6779-e5be" name="New CategoryLink" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="2.0"/>
+        <cost name="pts" typeId="Points" value="19.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8e90-8b35-cb12-8eb4" name="FV432M" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="04ec-1fbb-2088-ad80" name="Stats" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">8+m</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="f8e6-9eb8-5555-1651" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="9bae-8144-337b-a4cc" typeName="Moving firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="2ed7-83f0-c817-cd43">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="d86b-92f4-dc1f-5cbf">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="45ef-30a6-f1e9-c2b8" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="9bae-8144-337b-a4cc" typeName="Moving firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="2ed7-83f0-c817-cd43">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="d86b-92f4-dc1f-5cbf">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="01b5-03ff-ab15-e7cb" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="fbb9-30b0-9023-988d" typeName="Stationary firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="0c78-98c2-18c4-5003">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="898f-e8c7-c029-9471">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="c081-2304-b7c4-4d39" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="fbb9-30b0-9023-988d" typeName="Stationary firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="0c78-98c2-18c4-5003">N/A</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="898f-e8c7-c029-9471">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="74da-386b-b9e4-0bff" name="Mortar" hidden="false" targetId="4fe4-3830-d71d-41ca" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="a441-5f8e-789b-70cf" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="2.0"/>
+        <cost name="pts" typeId="Points" value="18.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c12d-bd31-71cb-9171" name="Warrior" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="d657-9d55-c4d7-179e" name="Stats" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">12</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">10</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">4a</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="1193-027f-ca29-e857" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="fc83-080a-1194-82e3" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="ce96-a519-5283-4ff8" name="APC" hidden="false" targetId="a9d2-98bd-c615-6fe8" type="rule"/>
+        <infoLink id="826e-a3ad-2400-4ad8" name="Rapid Fire Auto Cannon" hidden="false" targetId="RFAC AA reaction" type="profile"/>
+        <infoLink id="a4f2-a184-dcf0-8d83" name="Rapid Fire Auto Cannon" hidden="false" targetId="616f-3477-f5a7-7a28" type="rule"/>
+        <infoLink id="0825-d633-5500-08a6" name="AA" hidden="false" targetId="a50a-a48c-1d63-a6b8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="8d58-3a23-7366-6dab" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="false"/>
+        <categoryLink id="6fa7-1783-7e21-3db2" name="APC" hidden="false" targetId="8db6-aa7e-056a-3335" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="11.0"/>
+        <cost name="pts" typeId="Points" value="16.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0e60-1591-2714-ddd8" name="Spartan" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="400d-56b2-6667-d6ff" name="Stats" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">0</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e8dd-503c-20a6-9868" name="Recce" hidden="false" targetId="6a5e-a445-2c84-b1cf" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d11b-532a-4d8e-a7ab" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="8.0"/>
+        <cost name="pts" typeId="Points" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4410-0494-4da7-7083" name="Saxon" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="5158-d6fe-c71f-daee" name="Stats" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">9</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">0</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="60ed-2fd3-d6e7-7af2" name="APC" hidden="false" targetId="a9d2-98bd-c615-6fe8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="5617-3fc1-ecb8-49fc" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="false"/>
+        <categoryLink id="e5ed-30e2-fe67-d7c7" name="APC" hidden="false" targetId="8db6-aa7e-056a-3335" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="5.0"/>
+        <cost name="pts" typeId="Points" value="5.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>
