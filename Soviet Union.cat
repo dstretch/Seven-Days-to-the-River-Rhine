@@ -48,7 +48,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="3.0"/>
         <cost name="pts" typeId="Points" value="27.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="b78e-3a56-3762-d77d" name="Mi-24 &apos;Hind&apos;" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -130,7 +130,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="9.0"/>
         <cost name="pts" typeId="Points" value="75.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="67a5-6119-9a8b-3c09" name="MTLB AT" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -180,7 +180,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="6.0"/>
         <cost name="pts" typeId="Points" value="45.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="6922-1c38-f826-694b" name="BRDM Spandrel" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -230,7 +230,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="3.0"/>
         <cost name="pts" typeId="Points" value="26.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="7053-937c-da89-e823" name="SAM 9 Gaskin" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -269,7 +269,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="35.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5ef9-a46f-e56a-dda4" name="BRM1" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -307,7 +307,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="30.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="fdd3-ce6b-733e-acc8" name="BMD2" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
@@ -388,7 +388,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
         <cost name="pts" typeId="Points" value="62.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="42d6-8620-e6f0-b323" name="T64B" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -428,7 +428,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
         <cost name="pts" typeId="Points" value="60.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="360b-cb8d-5d6f-6acc" name="T72B" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -468,7 +468,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
         <cost name="pts" typeId="Points" value="60.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="fea6-2d7f-8404-d226" name="T72A" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -506,7 +506,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="6.0"/>
         <cost name="pts" typeId="Points" value="44.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4f7f-9d6a-f8b4-00bc" name="T55M6" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -544,7 +544,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="5.0"/>
         <cost name="pts" typeId="Points" value="40.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ffd2-d947-0af6-015c" name="T64A" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -582,7 +582,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="5.0"/>
         <cost name="pts" typeId="Points" value="38.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5eaf-30ce-8278-dcb7" name="T72 Ural" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -620,7 +620,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="35.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="2009-5f7f-7e20-1c02" name="T62M" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -658,7 +658,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="34.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="c95e-5b62-4e39-9f49" name="T55M" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -693,7 +693,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="30.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="f1da-b873-4c67-2332" name="T62A" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -728,7 +728,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="28.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5bdd-1d81-836b-6b17" name="T55A" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -763,7 +763,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="3.0"/>
         <cost name="pts" typeId="Points" value="24.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="758a-e3c2-d26e-2827" name="T34/85" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -798,7 +798,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="2.0"/>
         <cost name="pts" typeId="Points" value="18.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="e750-c252-6146-2f27" name="BMD1" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -918,7 +918,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="14.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="7a69-9ab8-040c-811f" name="SAM 13 Gopher" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -957,7 +957,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="35.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="48e6-e28d-bcd8-5a47" name="SAM 8 Gecko" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -996,7 +996,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="30.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4694-1cb5-f100-941f" name="ZSU57" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -1034,7 +1034,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="3.0"/>
         <cost name="pts" typeId="Points" value="21.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d50c-2ff1-e6da-591f" name="ZSU23 Shilka" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -1074,7 +1074,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="9.0"/>
         <cost name="pts" typeId="Points" value="21.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="004f-5bb0-7d99-399c" name="ASU85" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="false" type="model">
@@ -1112,7 +1112,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
         <cost name="pts" typeId="Points" value="18.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="3b40-8bf9-3147-443a" name="ASU57" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -1150,7 +1150,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="10.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="aeac-f66c-efad-6a8f" name="2S9 Nona Mortar" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">
@@ -1200,7 +1200,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
         <cost name="pts" typeId="Points" value="18.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="0984-6617-c446-9e72" name="BRDM2" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="false" type="model">
@@ -1239,7 +1239,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="6.0"/>
         <cost name="pts" typeId="Points" value="15.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="c027-2b24-e86e-6c6e" name="BMP2" publicationId="02d1-8907-630f-3023" page="42" hidden="false" collective="false" import="true" type="model">

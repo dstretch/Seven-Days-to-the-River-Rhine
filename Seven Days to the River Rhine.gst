@@ -211,7 +211,7 @@
       <costs>
         <cost name="pts" typeId="Points" value="33.0"/>
         <cost name="BP" typeId="Break Points" value="4.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4b01-fbf2-f27e-8112" name="Mortar" publicationId="02d1-8907-630f-3023" hidden="false" collective="false" import="true" type="model">
@@ -262,7 +262,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="29.0"/>
-        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="f747-ee17-8bb1-e8d3" name="Infantry hits conversion" hidden="false" collective="false" import="true" type="upgrade">
