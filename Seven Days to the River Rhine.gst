@@ -72,6 +72,12 @@
         <characteristicType id="18e1-dc0f-13ef-f543" name="Hits on"/>
       </characteristicTypes>
     </profileType>
+    <profileType id="b646-cf7e-5cde-3d7c" name="React to">
+      <characteristicTypes>
+        <characteristicType id="ab4b-46ee-a833-023f" name="In the open (d6)"/>
+        <characteristicType id="e22f-c955-542f-f35e" name="In cover/obscured (d6)"/>
+      </characteristicTypes>
+    </profileType>
   </profileTypes>
   <categoryEntries>
     <categoryEntry id="37d9-c2b3-cb7d-9b59" name="Infantry" publicationId="02d1-8907-630f-3023" page="3" hidden="false">
@@ -354,6 +360,26 @@
         <cost name="pts" typeId="Points" value="0.0"/>
         <cost name="CT" typeId="Command Tokens" value="0.0"/>
       </costs>
+    </selectionEntry>
+    <selectionEntry id="c4a9-2b1c-e2f8-cb8c" name="Reacting to" publicationId="02d1-8907-630f-3023" page="12" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="59a3-5ba0-a56d-a01e" type="min"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1602-e607-1560-eb22" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="3496-3005-6dc5-c51a" name="Infantry / Support" hidden="false" typeId="b646-cf7e-5cde-3d7c" typeName="React to">
+          <characteristics>
+            <characteristic name="In the open (d6)" typeId="ab4b-46ee-a833-023f">4+</characteristic>
+            <characteristic name="In cover/obscured (d6)" typeId="e22f-c955-542f-f35e">5+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="e8ca-c9d3-ab72-c5a2" name="MBT / Light vehicle / APC" hidden="false" typeId="b646-cf7e-5cde-3d7c" typeName="React to">
+          <characteristics>
+            <characteristic name="In the open (d6)" typeId="ab4b-46ee-a833-023f">3+</characteristic>
+            <characteristic name="In cover/obscured (d6)" typeId="e22f-c955-542f-f35e">4+</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
     </selectionEntry>
   </selectionEntries>
   <sharedRules>
