@@ -380,6 +380,9 @@
           </characteristics>
         </profile>
       </profiles>
+      <categoryLinks>
+        <categoryLink id="cf1f-1ced-b45b-25bb" name="Global profiles" hidden="false" targetId="5a66-63f5-a671-5ef8" primary="true"/>
+      </categoryLinks>
     </selectionEntry>
   </selectionEntries>
   <sharedRules>
