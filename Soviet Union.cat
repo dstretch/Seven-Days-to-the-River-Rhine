@@ -383,7 +383,7 @@
         <infoLink id="37a1-0eba-671f-d0ee" name="Tank Missile" hidden="false" targetId="7889-3318-b84e-b4e0" type="rule"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="161a-f577-1b35-bed4" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="false"/>
+        <categoryLink id="161a-f577-1b35-bed4" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
