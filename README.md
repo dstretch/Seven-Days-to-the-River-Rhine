@@ -23,7 +23,7 @@ Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][
 
 __I found a bug!__ / *I have another request*
 
-Great, thank you! Please [Report a bug][bug report] - you can also suggest enhancements and raise other issues there.
+Great, thank you! Please [Report a bug][bug report] - you can also suggest enhancements and raise other issues there. Please try to label the issue appropriately.
 
 ## Links ##
 
