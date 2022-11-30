@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="6ed7-8bcf-4140-c175" name="United States" revision="1" battleScribeVersion="2.03" authorName="David Stretch" authorUrl="https://github.com/dstretch/Seven-Days-to-the-River-Rhine" library="false" gameSystemId="abf0-2693-a28c-4ef3" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="9a98-a85d-cd5b-48f5" name="AH64 Apache" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="2f27-b046-ae7e-90e3" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">N/A</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">N/A</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">4a</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">N/A</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">3+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">12h</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="2dc0-8b10-f0e7-3188" name="Rockets" hidden="false" targetId="65b1-d1d7-b66d-d543" type="rule"/>
+        <infoLink id="6748-e829-f4f2-c5e6" name="HEAT rounds" hidden="false" targetId="6c8d-90e2-3e26-b52b" type="rule"/>
+        <infoLink id="b101-bce4-a3f9-8285" name="Rapid Fire Auto Cannon" hidden="false" targetId="616f-3477-f5a7-7a28" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="0f81-283e-f663-30ca" name="Atk Helo" hidden="false" targetId="5f7f-8659-f759-c3ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="14.0"/>
+        <cost name="pts" typeId="Points" value="110.0"/>
+        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="45b1-7141-c74c-6cdf" name="AH1 Cobra" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="6f1b-eb2c-8f07-d6bc" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">N/A</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">N/A</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">4a</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">N/A</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">3+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">12h</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="82d6-7a14-0048-a760" name="Rockets" hidden="false" targetId="65b1-d1d7-b66d-d543" type="rule"/>
+        <infoLink id="ccb2-bde0-b3a5-ad39" name="HEAT rounds" hidden="false" targetId="6c8d-90e2-3e26-b52b" type="rule"/>
+        <infoLink id="a5bf-18ef-decb-1d69" name="Rapid Fire Auto Cannon" hidden="false" targetId="616f-3477-f5a7-7a28" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d437-748d-d278-53fa" name="Atk Helo" hidden="false" targetId="5f7f-8659-f759-c3ec" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="13.0"/>
+        <cost name="pts" typeId="Points" value="100.0"/>
+        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9fc0-9785-e9e2-ff45" name="M1A1" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="5a7d-fdc4-86d7-ae3c" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">19s</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">17s</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">11</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="88d1-4cc4-2aa1-8ada" name="Fast MBT" hidden="false" targetId="97ab-e485-577c-1615" type="rule"/>
+        <infoLink id="d325-8f07-d3cd-f532" name="Special Armour" hidden="false" targetId="c2d4-c410-d7b4-a207" type="rule"/>
+        <infoLink id="fd67-6f21-e2a4-0906" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="8dfb-a5c2-4784-585c" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="11.0"/>
+        <cost name="pts" typeId="Points" value="90.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e288-8b18-6030-9cdd" name="M1 &apos;Imp&apos;" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="1ce3-2f89-3716-f653" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">19s</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">17s</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">10</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7905-38ff-ef31-dfe3" name="Fast MBT" hidden="false" targetId="97ab-e485-577c-1615" type="rule"/>
+        <infoLink id="5781-ab58-faba-332a" name="Special Armour" hidden="false" targetId="c2d4-c410-d7b4-a207" type="rule"/>
+        <infoLink id="1517-4469-cc9a-cfa2" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="6203-e0e5-1c78-4e7a" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="10.0"/>
+        <cost name="pts" typeId="Points" value="78.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="83bf-b6a2-6fef-022b" name="M1" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="4777-4de3-1a30-49f5" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">18s</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">16s</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">10</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="23b4-1d18-74f1-7069" name="Fast MBT" hidden="false" targetId="97ab-e485-577c-1615" type="rule"/>
+        <infoLink id="909c-04e6-5593-f85a" name="Special Armour" hidden="false" targetId="c2d4-c410-d7b4-a207" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="f6ad-b461-4124-137e" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="8.0"/>
+        <cost name="pts" typeId="Points" value="65.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a48b-5256-eb91-5262" name="M60A3" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="c60e-b7cf-fe4a-6436" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">14</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">12</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">10</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="a054-7e71-41ea-ca18" name="Main Battle Tank" hidden="false" targetId="6a24-57b5-7d2d-83d8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="6.0"/>
+        <cost name="pts" typeId="Points" value="46.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="74b8-c8d2-8b97-5b9b" name="M60A1" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="a4d3-ff51-0ba1-73d5" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">14</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">12</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">10</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">6+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="4439-0e0b-15e2-05c2" name="Main Battle Tank" hidden="false" targetId="6a24-57b5-7d2d-83d8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="4.0"/>
+        <cost name="pts" typeId="Points" value="32.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2a14-0a4b-7ae1-caa9" name="LAV-AT" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="69e3-190b-3a7c-ed7e" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">3+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">12h</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="d281-e830-7fa1-85fa" name="ATGM" hidden="false" targetId="6955-f10f-bd13-3c00" type="rule"/>
+        <infoLink id="3f4d-d4c3-71d2-e56f" name="HEAT rounds" hidden="false" targetId="6c8d-90e2-3e26-b52b" type="rule"/>
+        <infoLink id="2ea0-2a4d-e864-19d9" name="ATV" hidden="false" targetId="1110-4f75-5d98-1725" type="rule"/>
+        <infoLink id="78a7-7746-1319-6b6d" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
+        <infoLink id="5d3e-0f61-bace-a976" name="Concealed shooter / &apos;Cherry Picker&apos;" hidden="false" targetId="28b0-8e0d-fada-8536" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="3c84-943d-5265-73c5" name="Light (ATV)" hidden="false" targetId="2be6-c3ed-d530-3eaa" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="7.0"/>
+        <cost name="pts" typeId="Points" value="53.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d65e-6059-77a6-93d6" name="M901" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="f526-4d34-1e55-9762" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">3+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">12h</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="fddd-285b-6521-9d90" name="ATGM" hidden="false" targetId="6955-f10f-bd13-3c00" type="rule"/>
+        <infoLink id="9e27-5cf2-6fbb-c00c" name="HEAT rounds" hidden="false" targetId="6c8d-90e2-3e26-b52b" type="rule"/>
+        <infoLink id="b761-0450-5cbe-4d2f" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
+        <infoLink id="7945-77da-0267-703a" name="Concealed shooter / &apos;Cherry Picker&apos;" hidden="false" targetId="28b0-8e0d-fada-8536" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="59bc-b16f-4e61-8162" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="6.0"/>
+        <cost name="pts" typeId="Points" value="50.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="67ad-f967-8ec1-72b9" name="HMMWV TOW" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="77eb-34b7-5c01-2335" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">8</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">3</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">3+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">12h</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4c8d-2d24-458c-dd67" name="ATGM" hidden="false" targetId="6955-f10f-bd13-3c00" type="rule"/>
+        <infoLink id="eb2c-a060-d440-977b" name="HEAT rounds" hidden="false" targetId="6c8d-90e2-3e26-b52b" type="rule"/>
+        <infoLink id="da11-820b-5ec8-fd0c" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
+        <infoLink id="0c66-05d7-f6c1-ed2e" name="ATV" hidden="false" targetId="1110-4f75-5d98-1725" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="0c2d-77a5-3960-2cb8" name="Light (ATV)" hidden="false" targetId="2be6-c3ed-d530-3eaa" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="5.0"/>
+        <cost name="pts" typeId="Points" value="40.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ea5c-2b93-5084-1ed9" name="HMMWV" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="6492-c411-2102-d646" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">0</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="faf5-df42-cfda-f6db" name="Recce" hidden="false" targetId="6a5e-a445-2c84-b1cf" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="39f4-f986-9d21-73e3" name="Light (Wheeled)" hidden="false" targetId="ddd4-c810-ae44-8f48" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="10.0"/>
+        <cost name="pts" typeId="Points" value="15.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="daff-b9b7-2bca-8376" name="M113" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="cc97-bf4a-0f21-feaf" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">0</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="33ba-0275-162c-bae1" name="APC" hidden="false" targetId="a9d2-98bd-c615-6fe8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="e683-fe8c-506e-fd51" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="false"/>
+        <categoryLink id="db9c-9d3a-c56d-e227" name="APC" hidden="false" targetId="8db6-aa7e-056a-3335" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="4.0"/>
+        <cost name="pts" typeId="Points" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ad15-2709-0bf0-1c68" name="AAVP7" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="b84b-3345-14fa-e048" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">11</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">9</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">3</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="f0ff-4e0e-7a11-0211" name="APC" hidden="false" targetId="a9d2-98bd-c615-6fe8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="08d4-df8b-b8d1-9374" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="false"/>
+        <categoryLink id="5700-236f-6ec0-75d8" name="APC" hidden="false" targetId="8db6-aa7e-056a-3335" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="6.0"/>
+        <cost name="pts" typeId="Points" value="11.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bd73-7d9f-b6d2-bcf8" name="M113 FIST" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="6280-4fc0-d895-0c4f" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">0</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="6bdd-923f-24bb-c0e1" name="Recce" hidden="false" targetId="6a5e-a445-2c84-b1cf" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="a27a-4d35-11da-bfdb" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="11.0"/>
+        <cost name="pts" typeId="Points" value="15.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c4ee-72c4-9805-702d" name="M106" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="0bef-fee0-7ac2-a706" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">8+m</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="b742-2265-fd3b-7fbe" name="Mortar" hidden="false" targetId="4fe4-3830-d71d-41ca" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="9047-9232-1bf7-4df2" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="2.0"/>
+        <cost name="pts" typeId="Points" value="18.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c8c7-34cc-531e-c15a" name="LAV-M" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="3243-c600-3daa-3d9d" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">8+m</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="161f-fd0a-7539-260b" name="Mortar" hidden="false" targetId="4fe4-3830-d71d-41ca" type="rule"/>
+        <infoLink id="4011-7b4a-bedd-5ea8" name="ATV" hidden="false" targetId="1110-4f75-5d98-1725" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="5e91-9218-8026-936b" name="Light (ATV)" hidden="false" targetId="2be6-c3ed-d530-3eaa" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="2.0"/>
+        <cost name="pts" typeId="Points" value="18.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b444-5ed4-64b0-5bf3" name="HMMWV SAM" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="8c6a-abc5-3a4f-600c" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">8+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="0808-e568-c098-81cf" name="MANPAD" hidden="false" targetId="50aa-4d38-97a5-d9ea" type="rule"/>
+        <infoLink id="1e8e-38ca-a4ba-2400" name="AA" hidden="false" targetId="a50a-a48c-1d63-a6b8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="276b-5926-d7be-1b61" name="Light (Wheeled)" hidden="false" targetId="ddd4-c810-ae44-8f48" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="3.0"/>
+        <cost name="pts" typeId="Points" value="20.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3135-b129-e662-9f46" name="M551 Sheridan" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="1e06-03ff-1c4a-cc1a" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">13</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">11</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">10h</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">5</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="afa6-c3c1-d07c-9a50" name="Recce" hidden="false" targetId="6a5e-a445-2c84-b1cf" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d594-ebbe-e418-bec2" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="4.0"/>
+        <cost name="pts" typeId="Points" value="35.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7892-483d-0fcf-14dd" name="M2 Bradley" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="dc96-47a1-5f83-990b" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">13</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">1</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">4a</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">3+</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">12h</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="0af5-2032-1921-dc5b" name="ATGM" hidden="false" targetId="6955-f10f-bd13-3c00" type="rule"/>
+        <infoLink id="127b-6fe8-8e12-4bab" name="HEAT rounds" hidden="false" targetId="6c8d-90e2-3e26-b52b" type="rule"/>
+        <infoLink id="85a7-1bc7-e72a-49c3" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
+        <infoLink id="0498-1072-14f3-17d5" name="Rapid Fire Auto Cannon" hidden="false" targetId="616f-3477-f5a7-7a28" type="rule"/>
+        <infoLink id="7eb2-783a-1eb1-b6f8" name="AA" hidden="false" targetId="a50a-a48c-1d63-a6b8" type="rule"/>
+        <infoLink id="95e0-142a-f9f0-3012" name="APC" hidden="false" targetId="a9d2-98bd-c615-6fe8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="5dc1-caa0-688c-693e" name="APC" hidden="false" targetId="8db6-aa7e-056a-3335" primary="true"/>
+        <categoryLink id="2300-f5d4-0e36-b511" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="4.0"/>
+        <cost name="pts" typeId="Points" value="35.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="87d5-1962-4a51-e526" name="MIM-72 Chaparral" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="2c8c-9113-4e2d-621a" name="Stats" publicationId="02d1-8907-630f-3023" page="35" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">10</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">8</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">N/A</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">5+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">4</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="f83d-f531-5537-9d8d" name="SAM" hidden="false" targetId="cb7a-2192-3b0c-d3e6" type="rule"/>
+        <infoLink id="59e6-2866-807a-cc06" name="AA" hidden="false" targetId="a50a-a48c-1d63-a6b8" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="d1a5-883e-71ff-3e72" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="4.0"/>
+        <cost name="pts" typeId="Points" value="35.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>

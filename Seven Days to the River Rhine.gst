@@ -383,6 +383,11 @@
       <categoryLinks>
         <categoryLink id="cf1f-1ced-b45b-25bb" name="Global profiles" hidden="false" targetId="5a66-63f5-a671-5ef8" primary="true"/>
       </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="0.0"/>
+        <cost name="pts" typeId="Points" value="0.0"/>
+        <cost name="CT" typeId="Command Tokens" value="0.0"/>
+      </costs>
     </selectionEntry>
   </selectionEntries>
   <sharedRules>
@@ -462,7 +467,7 @@ Note: Advanced HEAT weapons such as the Improved TOW ATGM have advanced Tandem w
 
 To determine additional damage against Infantry/Support units treat a grenade launcher as ‘Gun - AT 7 and above, Artillery &amp; ATGM’ on the Effects of Hits against Infantry and Support Teams table, see page 19.</description>
     </rule>
-    <rule id="28b0-8e0d-fada-8536" name="Concealed shooter" publicationId="02d1-8907-630f-3023" page="26" hidden="false">
+    <rule id="28b0-8e0d-fada-8536" name="Concealed shooter / &apos;Cherry Picker&apos;" publicationId="02d1-8907-630f-3023" page="26" hidden="false">
       <description>Any unit reacting to an ATGM shot from a vehicle with this trait subtracts -1 from its reaction roll.</description>
     </rule>
     <rule id="19e7-97c4-59c7-4fa3" name="Fixed forward" publicationId="02d1-8907-630f-3023" page="27" hidden="false">
