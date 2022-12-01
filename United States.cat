@@ -821,7 +821,7 @@
         <infoLink id="24d6-42c6-36fa-ea6f" name="Recce" hidden="false" targetId="6a5e-a445-2c84-b1cf" type="rule"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="96bd-57dc-b2bc-9248" name="Light (Wheeled)" hidden="false" targetId="ddd4-c810-ae44-8f48" primary="true"/>
+        <categoryLink id="c108-3990-01c7-216a" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
