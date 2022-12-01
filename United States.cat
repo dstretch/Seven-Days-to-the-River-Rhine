@@ -14,12 +14,36 @@
             <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">12h</characteristic>
           </characteristics>
         </profile>
+        <profile id="e92c-18ce-702d-dcdd" name="Infantry/Support (AutoCannon)" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="4ba6-6b8a-d207-e69a" name="Vehicle (AutoCannon)" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="d1c5-cc15-0f69-bf05" name="Vehicle (ATGM)" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="721d-658a-19ef-da03" name="Infantry/Support (ATGM)" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
       </profiles>
       <infoLinks>
         <infoLink id="2dc0-8b10-f0e7-3188" name="Rockets" hidden="false" targetId="65b1-d1d7-b66d-d543" type="rule"/>
         <infoLink id="6748-e829-f4f2-c5e6" name="HEAT rounds" hidden="false" targetId="6c8d-90e2-3e26-b52b" type="rule"/>
         <infoLink id="b101-bce4-a3f9-8285" name="Rapid Fire Auto Cannon" hidden="false" targetId="616f-3477-f5a7-7a28" type="rule"/>
-        <infoLink id="c164-b99a-fb08-f9d8" name="Rapid Fire Auto Cannon" hidden="false" targetId="RFAC AA reaction" type="profile"/>
+        <infoLink id="36f4-cbeb-9636-5435" name="ATGM" hidden="false" targetId="6955-f10f-bd13-3c00" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="0f81-283e-f663-30ca" name="Atk Helo" hidden="false" targetId="5f7f-8659-f759-c3ec" primary="true"/>
@@ -43,12 +67,36 @@
             <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">12h</characteristic>
           </characteristics>
         </profile>
+        <profile id="3fe4-d08f-7b77-a6bb" name="Infantry/Support (AutoCannon)" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="4136-e056-5df1-7ec8" name="Vehicle (AutoCannon)" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">2d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="d4b2-628a-596e-42ca" name="Vehicle (ATGM)" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="298c-e576-8674-9745" name="Infantry/Support (ATGM)" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
       </profiles>
       <infoLinks>
         <infoLink id="82d6-7a14-0048-a760" name="Rockets" hidden="false" targetId="65b1-d1d7-b66d-d543" type="rule"/>
         <infoLink id="ccb2-bde0-b3a5-ad39" name="HEAT rounds" hidden="false" targetId="6c8d-90e2-3e26-b52b" type="rule"/>
         <infoLink id="a5bf-18ef-decb-1d69" name="Rapid Fire Auto Cannon" hidden="false" targetId="616f-3477-f5a7-7a28" type="rule"/>
-        <infoLink id="b97e-3893-cfc1-1590" name="Rapid Fire Auto Cannon" hidden="false" targetId="RFAC AA reaction" type="profile"/>
+        <infoLink id="3d82-3d3e-f2ff-5f4e" name="ATGM" hidden="false" targetId="6955-f10f-bd13-3c00" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="d437-748d-d278-53fa" name="Atk Helo" hidden="false" targetId="5f7f-8659-f759-c3ec" primary="true"/>
