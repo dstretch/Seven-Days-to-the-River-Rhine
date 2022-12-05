@@ -17,6 +17,12 @@ It's a GitHub repository of datafiles.
 Maintained by me, in no way endorsed by BattleScribe or any other company/publisher. If you want
 to develop - cool! We need you!
 
+__How do I use it?__
+
+Inside of BattleScribe please choose the "Add Index data URL" option from the *Manage Data* screen and paste in the following URL: https://github.com/dstretch/Seven-Days-to-the-River-Rhine/releases/latest/download/Seven-Days-to-the-River-Rhine.latest.bsi
+
+Now once you update your data you should get the latest updates.
+
 __I found a bug!__ / *I have another request*
 
 Great, thank you! Please [Report a bug][bug report] - you can also suggest enhancements and raise other issues there. Please try to label the issue appropriately.
