@@ -19,7 +19,7 @@ to develop - cool! We need you!
 
 __How do I use it?__
 
-Inside of BattleScribe please choose the "Add Index data URL" option from the *Manage Data* screen and paste in the following URL: https://github.com/dstretch/Seven-Days-to-the-River-Rhine/releases/latest/download/Seven-Days-to-the-River-Rhine.latest.bsi
+Inside of BattleScribe please choose the "Add data index url" option from the *Manage Data* screen and paste in the following URL: https://github.com/dstretch/Seven-Days-to-the-River-Rhine/releases/latest/download/Seven-Days-to-the-River-Rhine.latest.bsi
 
 Now once you update your data you should get the latest updates.
 
