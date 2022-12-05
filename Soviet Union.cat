@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="4481-1406-21c9-5489" name="Soviet Union" revision="1" battleScribeVersion="2.03" authorName="David Stretch" library="false" gameSystemId="abf0-2693-a28c-4ef3" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="4481-1406-21c9-5489" name="Soviet Union" revision="2" battleScribeVersion="2.03" authorName="David Stretch" library="false" gameSystemId="abf0-2693-a28c-4ef3" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
     <selectionEntry id="8ba6-5c32-50ac-443f" name="Saxhorn Team" publicationId="02d1-8907-630f-3023" page="36" hidden="false" collective="false" import="true" type="model">
       <profiles>

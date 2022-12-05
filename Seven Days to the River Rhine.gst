@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="abf0-2693-a28c-4ef3" name="Seven Days to the River Rhine" revision="1" battleScribeVersion="2.03" authorName="David Stretch" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="abf0-2693-a28c-4ef3" name="Seven Days to the River Rhine" revision="2" battleScribeVersion="2.03" authorName="David Stretch" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
     <publication id="02d1-8907-630f-3023" name="Core rules" shortName="SDttRR" publisher="Seven Days to the River Rhine" publisherUrl="https://www.greatescapegames.co.uk/online-store/seven-days"/>
   </publications>
