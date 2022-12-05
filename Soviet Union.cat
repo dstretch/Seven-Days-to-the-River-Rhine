@@ -125,7 +125,7 @@
         <infoLink id="576a-aa12-bd3f-45f8" name="Light Vehicles, APC &amp; Fast MBT movement" hidden="false" targetId="86a8-dace-1525-4e73" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="a2eb-c6c7-4622-c771" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="20b3-880b-735a-9e46" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="9.0"/>
@@ -383,7 +383,7 @@
         <infoLink id="37a1-0eba-671f-d0ee" name="Tank Missile" hidden="false" targetId="7889-3318-b84e-b4e0" type="rule"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="161a-f577-1b35-bed4" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="a278-e9af-2856-8fa7" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
@@ -423,7 +423,7 @@
         <infoLink id="ef00-543e-8dd3-201b" name="Light Vehicles, APC &amp; Fast MBT movement" hidden="false" targetId="86a8-dace-1525-4e73" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="c98d-6fae-b9eb-1c3a" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="92f5-65ca-fd60-2c01" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
@@ -463,7 +463,7 @@
         <infoLink id="cddc-8b15-155a-b64e" name="Light Vehicles, APC &amp; Fast MBT movement" hidden="false" targetId="86a8-dace-1525-4e73" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="93a7-f924-dad9-11e6" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="be48-4763-7e68-b51c" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
@@ -501,7 +501,7 @@
         <infoLink id="3fd2-5e31-e3be-ee20" name="Light Vehicles, APC &amp; Fast MBT movement" hidden="false" targetId="86a8-dace-1525-4e73" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="85d2-97ef-98c8-dd84" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="17a2-4e9b-6725-c934" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="6.0"/>
@@ -577,7 +577,7 @@
         <infoLink id="9b3c-fe92-b070-806d" name="Light Vehicles, APC &amp; Fast MBT movement" hidden="false" targetId="86a8-dace-1525-4e73" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="bdc0-fb33-500a-f4a1" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="3d0d-d11f-53bd-ad00" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="5.0"/>
@@ -615,7 +615,7 @@
         <infoLink id="b6cb-fac4-e488-6711" name="Light Vehicles, APC &amp; Fast MBT movement" hidden="false" targetId="86a8-dace-1525-4e73" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="589b-7e77-f7b0-10ac" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="3ebb-e01d-7f5e-83f0" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>

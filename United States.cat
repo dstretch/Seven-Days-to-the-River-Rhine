@@ -139,7 +139,7 @@
         <infoLink id="fd67-6f21-e2a4-0906" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="8dfb-a5c2-4784-585c" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="f736-02e1-f794-cfee" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="11.0"/>
@@ -179,7 +179,7 @@
         <infoLink id="1517-4469-cc9a-cfa2" name="Thermal" hidden="false" targetId="26d9-1f79-ba50-a8c8" type="rule"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="6203-e0e5-1c78-4e7a" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="5515-397b-8fde-2fcd" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="10.0"/>
@@ -218,7 +218,7 @@
         <infoLink id="909c-04e6-5593-f85a" name="Special Armour" hidden="false" targetId="c2d4-c410-d7b4-a207" type="rule"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="f6ad-b461-4124-137e" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="true"/>
+        <categoryLink id="c79f-549b-2392-909e" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="true"/>
       </categoryLinks>
       <costs>
         <cost name="BP" typeId="Break Points" value="8.0"/>
@@ -470,6 +470,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="7.0"/>
+        <cost name="CT" typeId="Command Tokens" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="ad15-2709-0bf0-1c68" name="AAVP7" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
@@ -508,6 +509,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="6.0"/>
         <cost name="pts" typeId="Points" value="11.0"/>
+        <cost name="CT" typeId="Command Tokens" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="bd73-7d9f-b6d2-bcf8" name="M113 FIST" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">
@@ -697,6 +699,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="4.0"/>
         <cost name="pts" typeId="Points" value="35.0"/>
+        <cost name="CT" typeId="Command Tokens" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="87d5-1962-4a51-e526" name="MIM-72 Chaparral" publicationId="02d1-8907-630f-3023" page="35" hidden="false" collective="false" import="true" type="model">

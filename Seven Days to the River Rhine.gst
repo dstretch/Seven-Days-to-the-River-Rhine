@@ -142,7 +142,7 @@
       </constraints>
     </categoryEntry>
     <categoryEntry id="5a66-63f5-a671-5ef8" name="Global profiles" hidden="false"/>
-    <categoryEntry id="0fee-2f17-9df6-9b53" name="Main Battle Tank (Fast)" publicationId="02d1-8907-630f-3023" page="4" hidden="false">
+    <categoryEntry id="483f-0171-0fb9-33b1" name="Main Battle Tank - Fast" publicationId="02d1-8907-630f-3023" page="4" hidden="false">
       <infoLinks>
         <infoLink id="c304-44d8-84b0-837a" name="Tracked terrain test" hidden="false" targetId="f087-595f-dbe3-5298" type="profile"/>
         <infoLink id="5d6a-cefd-2f23-15b0" name="Light Vehicles, APC &amp; Fast MBT movement" hidden="false" targetId="86a8-dace-1525-4e73" type="profile"/>
@@ -162,7 +162,7 @@
         <categoryLink id="33e9-d99b-68a9-6241" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="false"/>
         <categoryLink id="c695-aceb-07d8-a054" name="APC" hidden="false" targetId="8db6-aa7e-056a-3335" primary="false"/>
         <categoryLink id="627e-c0e8-f83e-3020" name="Global profiles" hidden="false" targetId="5a66-63f5-a671-5ef8" primary="false"/>
-        <categoryLink id="d4cf-3182-256a-93d5" name="Main Battle Tank (Fast)" hidden="false" targetId="0fee-2f17-9df6-9b53" primary="false"/>
+        <categoryLink id="d4cf-3182-256a-93d5" name="Main Battle Tank - Fast" hidden="false" targetId="483f-0171-0fb9-33b1" primary="false"/>
       </categoryLinks>
     </forceEntry>
   </forceEntries>
