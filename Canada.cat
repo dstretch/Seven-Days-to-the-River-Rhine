@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="e4a9-6dce-9fae-f8bd" name="Canada" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="abf0-2693-a28c-4ef3" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="42d6-ed7f-2e50-7e06" name="Leopard C1" publicationId="02d1-8907-630f-3023" page="38" hidden="false" collective="false" import="true" type="model">
+      <profiles>
+        <profile id="362d-477b-78f7-a488" name="Stats" publicationId="02d1-8907-630f-3023" page="36" hidden="false" typeId="3ffd-c61d-0097-d2a9" typeName="Stats">
+          <characteristics>
+            <characteristic name="FA" typeId="6371-33fb-3f1d-e542">14s</characteristic>
+            <characteristic name="SA" typeId="7ad9-98e5-7ce2-c772">12s</characteristic>
+            <characteristic name="Wpn" typeId="a254-75cc-5e41-a58c">10</characteristic>
+            <characteristic name="To Hit" typeId="49ce-306f-39d8-07e2">4+</characteristic>
+            <characteristic name="Morale" typeId="fa6b-41d4-f8bd-1cfc">6</characteristic>
+            <characteristic name="ATGM To Hit" typeId="7f69-9169-9549-c51b">N/A</characteristic>
+            <characteristic name="ATGM Wpn" typeId="d381-2115-321b-f0e2">N/A</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="53b3-e882-0223-ec5a" name="Infantry/Support" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">2d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="fd86-aa58-f3b8-5dcc" name="Vehicle" publicationId="02d1-8907-630f-3023" page="15" hidden="false" typeId="19f0-87fd-dc5c-c3f0" typeName="Firing at">
+          <characteristics>
+            <characteristic name="Range &lt; 12&quot;" typeId="62d6-c392-bf00-f351">1d10</characteristic>
+            <characteristic name="Range 12&quot;+" typeId="6d2b-0ee4-6803-a52d">1d10</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="3e80-2724-77bc-0d02" name="MBT" hidden="false" targetId="6a24-57b5-7d2d-83d8" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="BP" typeId="Break Points" value="7.0"/>
+        <cost name="pts" typeId="Points" value="57.0"/>
+        <cost name="CT" typeId="Command Tokens" value="1.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>
