@@ -58,6 +58,7 @@
         <infoLink id="3871-0297-ebf3-a949" name="SAM" hidden="false" targetId="cb7a-2192-3b0c-d3e6" type="rule"/>
         <infoLink id="cbe6-910c-dd5e-2524" name="AA" hidden="false" targetId="a50a-a48c-1d63-a6b8" type="rule"/>
         <infoLink id="6806-1212-5b28-b335" name="HEAT rounds" hidden="false" targetId="6c8d-90e2-3e26-b52b" type="rule"/>
+        <infoLink id="9b34-f758-2dab-c800" name="SAM AA reaction" hidden="false" targetId="9782-4b62-b8f9-67d6" type="profile"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="c050-985f-a487-ca96" name="Light (Tracked)" hidden="false" targetId="e039-7ada-3b1e-413e" primary="true"/>
