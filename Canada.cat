@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="e4a9-6dce-9fae-f8bd" name="Canada" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="abf0-2693-a28c-4ef3" gameSystemRevision="3" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="e4a9-6dce-9fae-f8bd" name="Canada" revision="1" battleScribeVersion="2.03" authorName="David Stretch" authorUrl="https://github.com/dstretch/Seven-Days-to-the-River-Rhine" library="false" gameSystemId="abf0-2693-a28c-4ef3" gameSystemRevision="3" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <selectionEntries>
     <selectionEntry id="42d6-ed7f-2e50-7e06" name="Leopard C1" publicationId="02d1-8907-630f-3023" page="38" hidden="false" collective="false" import="true" type="model">
       <profiles>
@@ -225,6 +225,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="1.0"/>
         <cost name="pts" typeId="Points" value="7.0"/>
+        <cost name="CT" typeId="Command Tokens" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="9616-a402-e58c-081e" name="AVGB Grizzly" hidden="false" collective="false" import="true" type="model">
@@ -251,6 +252,7 @@
       <costs>
         <cost name="BP" typeId="Break Points" value="7.0"/>
         <cost name="pts" typeId="Points" value="7.0"/>
+        <cost name="CT" typeId="Command Tokens" value="0.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
