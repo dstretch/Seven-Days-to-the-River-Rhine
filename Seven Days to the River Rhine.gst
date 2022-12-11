@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="abf0-2693-a28c-4ef3" name="Seven Days to the River Rhine" revision="2" battleScribeVersion="2.03" authorName="David Stretch" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="abf0-2693-a28c-4ef3" name="Seven Days to the River Rhine" revision="3" battleScribeVersion="2.03" authorName="David Stretch" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
     <publication id="02d1-8907-630f-3023" name="Core rules" shortName="SDttRR" publisher="Seven Days to the River Rhine" publisherUrl="https://www.greatescapegames.co.uk/online-store/seven-days"/>
   </publications>
@@ -126,6 +126,7 @@
       <infoLinks>
         <infoLink id="6453-fea8-aebb-7ff5" name="ATV terrain test" hidden="false" targetId="cfb0-6030-32f0-8167" type="profile"/>
         <infoLink id="4d77-7252-6dd0-34a4" name="Light Vehicles, APC &amp; Fast MBT movement" hidden="false" targetId="86a8-dace-1525-4e73" type="profile"/>
+        <infoLink id="7bbf-20bb-a4e7-fbe4" name="ATV" hidden="false" targetId="1110-4f75-5d98-1725" type="rule"/>
       </infoLinks>
     </categoryEntry>
     <categoryEntry id="8db6-aa7e-056a-3335" name="APC" publicationId="02d1-8907-630f-3023" page="25" hidden="false">
